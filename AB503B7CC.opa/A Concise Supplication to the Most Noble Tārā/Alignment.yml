@@ -1,0 +1,19 @@
+segment_sources:
+  PBEA4D81E:
+    type: origin_type
+    relation: translation
+    language: en
+  PC74743EF:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  34b640c97e4d4d0e88f80f53f6cd29c8:
+    PBEA4D81E: 5e50e701db8a4ff6b7c0f5e03a48df36
+    PC74743EF: df3df420961b48dea08c9e10cf6220b2
+  e7da6b56130b4e6dbcfcc49f988c6903:
+    PBEA4D81E: a7847e62f75a42bdbb5a3e437a7740ff
+    PC74743EF: 30dcedccd924450297ba17f7b617c0e4
+  aed9b97a503346399ee5005cbe3945b1:
+    PBEA4D81E: 913c0994b8f24898b5ac20a4657754c7
+    PC74743EF: 815d822dad99417ab68d570b333458d7
